@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import genericLibraries.BaseClass;
-
+// This test verifies if user is able to add item to cart
 public class AddToCartTest extends BaseClass {
 
 	@Test
